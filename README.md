@@ -49,3 +49,6 @@ In Lion, the `*.qfilter` files should be copied to the following location: `/Lib
 The filters will **not** show up in Preview if the files are copied to the user's folder `~/Library/Filters`
 
 Alternatively, in Mountain Lion, since there is no `/Library/Filters` folder by default, you can put them in `/Library/PDF Services`
+
+## Note 2020:
+User-created Filters should be saved to /Users/yourUserName/Library/Filters. You may need to create this subfolder if it's not already present in your user Library.
